@@ -47,7 +47,7 @@ public struct SelectorView: View {
                         )
                     )
                     .onReceive(self.model.$selectionIndex, perform: { _ in
-                        withAnimation(.easeInOut) {
+                        withAnimation(.easeInOut(duration: 0.3)) {
                             scrollProxy.scrollTo(self.model.selectionIndex, anchor: .center)
                         }
                     })
