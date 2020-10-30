@@ -30,10 +30,7 @@ public struct SelectorView: View {
                                 .matchedGeometryEffect(id: option, in: environment, isSource: true)
                                 .onTapGesture {
                                     withAnimation(.easeInOut) {
-                                        
                                         self.model.selectionIndex = option
-                                        
-                                        scrollProxy.scrollTo(option, anchor: .center)
                                     }
                                 }
                         }
@@ -50,7 +47,9 @@ public struct SelectorView: View {
                         )
                     )
                     .onReceive(self.model.$selectionIndex, perform: { _ in
-                        scrollProxy.scrollTo(self.model.selectionIndex, anchor: .center)
+                        withAnimation(.easeInOut) {
+                            scrollProxy.scrollTo(self.model.selectionIndex, anchor: .center)
+                        }
                     })
                 }
                 .padding()
