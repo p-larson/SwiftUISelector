@@ -78,4 +78,5 @@ SelectorView(selectedOption: $selectedOption, options: [1, 2, 3, 4]) { (option) 
 ## License
 
 I'm not good with legal stuff, use my code as you wish, feel free to keep the credit tag in the code, idk.
+
 Open Source, do what ever you want. Maybe follow me on <a href="https://www.instagram.com/p.larson/">Instagram</a> I guess.
