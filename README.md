@@ -14,6 +14,10 @@ Add it to an existing Xcode project as a package dependency:
 1. From the **File** menu, select **Swift Packages › Add Package Dependency…**
 2. Enter "https://github.com/p-larson/SwiftUISelector" into the package repository URL text field
 
+**or**
+
+Copy and Paste <a href="https://github.com/fermoya/Source/SwiftUIPager.swift">SwiftUIPager.swift</a> into your project!
+
 ## Features :sparkles:
 - Smooth Selection
 - User Control
