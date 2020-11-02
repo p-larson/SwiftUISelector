@@ -1,8 +1,9 @@
 # SwiftUISelector
-A perfect option picker. Great for navigation.
+A perfect option picker. Great for navigation. Simple to use.
 
 <img src="Resources/example1.gif" alt="Example 1 Usage with SwiftUIPager"/>
-Try it out with [SwiftUIPager](https://github.com/fermoya/SwiftUIPager)!
+
+<p> Try it out with <a href="https://github.com/fermoya">@fermoya</a>'s package <a href="https://github.com/fermoya/SwiftUIPager">SwiftUIPager</a>!</p>
 
 ## Swift Package Manager
 
