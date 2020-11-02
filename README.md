@@ -1,5 +1,5 @@
 # SwiftUISelector
-A perfect picker. Great for navigation.
+A perfect picker. Great for navigation. 
 
 ## Features :sparkles:
 - Smooth Selection
@@ -9,7 +9,8 @@ A perfect picker. Great for navigation.
 
 ## Requirements
 - iOS 14, macOS 10.15
-- Swift 5.1
+- Swift 5.3
+
 
 ## Installation
 
