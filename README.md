@@ -16,7 +16,7 @@ Add it to an existing Xcode project as a package dependency:
 
 **or**
 
-Copy and Paste <a href="https://github.com/fermoya/Source/SwiftUIPager.swift">SwiftUIPager.swift</a> into your project!
+Copy and Paste <a href="https://github.com/fermoya/Sources/SwiftUIPager.swift">SwiftUIPager.swift</a> into your project!
 
 ## Features :sparkles:
 - Smooth Selection
