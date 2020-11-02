@@ -1,5 +1,7 @@
 # SwiftUISelector
-A perfect picker. Great for navigation. 
+A perfect option picker. Great for navigation.
+
+Try it out with [SwiftUIPager](https://github.com/fermoya/SwiftUIPager)!
 
 ## Features :sparkles:
 - Smooth Selection
@@ -11,9 +13,9 @@ A perfect picker. Great for navigation.
 - iOS 14, macOS 10.15
 - Swift 5.3
 
-
 ## Installation
 
 ## Swift Package Manager
 
-Go to **File → Swift Packages → Add Package Dependency** then put the repo URL (https://github.com/p-larson/SwiftUISelector.git).
+Go to **File → Swift Packages → Add Package Dependency** 
+then put the repo URL (https://github.com/p-larson/SwiftUISelector.git).
